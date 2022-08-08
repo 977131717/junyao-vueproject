@@ -3,12 +3,12 @@
         <div class="home-shipin">
             <img src="../../assets/banner.jpg" alt="">
         </div>
+		<div>
+				1212313132
+		</div>
         <div class="home-l-and-r">
             <div class="home-and-l">
-                <h3 class="home-guanyu">关于我们</h3>
-                <p>菌钥大健康成立于2015年，是一家具有大健康行业领先水平的保健食品研发、生产型企业。</p>
-                <p>产品涵盖中药发酵、女性健康、体重管理与运动营养、保健食品、中老年健康、男性健康、孕婴童呵护等多个领域
-                    ，生产营养口服液，粉剂，凝胶糖果，压片糖果，滋养膏滋，硬胶囊，营养果冻等多种剂型。</p>
+				均瑶大健康
             </div>
             <div class="home-and-r">
                 <img src="../../assets/banner1.png" alt="菌钥生命科技">
